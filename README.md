@@ -88,12 +88,6 @@ const noby = {
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Noby371?label=Followers&style=for-the-badge&color=6A5ACD" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Noby371?label=Total%20Stars&style=for-the-badge&color=6A5ACD" alt="Total Stars" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FNoby371&label=Public%20Repos&query=%24.public_repos&style=for-the-badge&color=6A5ACD" alt="Public Repos" />
-</p>
-
-<p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=Noby371&theme=tokyonight&hide_border=true" alt="GitHub streak" />
   </a>
