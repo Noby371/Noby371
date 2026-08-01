@@ -14,7 +14,7 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="30" align="center" alt="About Me"/> About Me
+### 💡 About Me
 
 ```js
 const noby = {
@@ -37,7 +37,7 @@ const noby = {
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30" align="center" alt="Tech Stack"/> Tech Stack
+### 🛠️ Tech Stack
 
 #### Frontend
 
@@ -85,12 +85,12 @@ const noby = {
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" align="center" alt="GitHub Analytics"/> GitHub Analytics
+### 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/Noby371?label=Followers&style=for-the-badge&color=6A5ACD" alt="Followers" />
   <img src="https://img.shields.io/github/stars/Noby371?label=Total%20Stars&style=for-the-badge&color=6A5ACD" alt="Total Stars" />
-  <img src="https://img.shields.io/github/forks/Noby371?label=Forks&style=for-the-badge&color=6A5ACD" alt="Forks" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FNoby371&label=Public%20Repos&query=%24.public_repos&style=for-the-badge&color=6A5ACD" alt="Public Repos" />
 </p>
 
 <p align="center">
@@ -101,7 +101,7 @@ const noby = {
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Star.png" width="30" align="center" alt="Highlights"/> Highlights
+### ⭐ Highlights
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to%20Work-28A745?style=for-the-badge&logo=briefcase&logoColor=white" alt="Open to Work" />
@@ -112,7 +112,7 @@ const noby = {
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="30" align="center" alt="Contribution Graph"/> Contribution Graph
+### 📈 Contribution Graph
 
 <p align="center">
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
@@ -122,7 +122,7 @@ const noby = {
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30" align="center" alt="Featured Projects"/> Featured Projects
+### 🚀 Featured Projects
 
 <!-- Tambahkan repositori favorit kamu di sini, contoh:
 [![Readme Card](https://img.shields.io/github/stars/Noby371/nama-repo?label=nama-repo&style=social)](https://github.com/Noby371/nama-repo)
@@ -132,7 +132,7 @@ const noby = {
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" width="30" align="center" alt="Currently"/> Currently
+### 🎯 Currently
 
 - 🔭 Building scalable full-stack applications
 - 🌱 Deep-diving into **System Design** & **Cloud Architecture**
