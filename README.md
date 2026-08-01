@@ -14,7 +14,7 @@
 
 ---
 
-### 💡 About Me
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="30" align="center" alt="About Me"/> About Me
 
 ```js
 const noby = {
@@ -37,7 +37,7 @@ const noby = {
 
 ---
 
-### 🛠️ Tech Stack
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30" align="center" alt="Tech Stack"/> Tech Stack
 
 #### Frontend
 
@@ -85,24 +85,24 @@ const noby = {
 
 ---
 
-### 📊 GitHub Analytics
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" align="center" alt="GitHub Analytics"/> GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/Noby371">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Noby371&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noby371&layout=compact&theme=tokyonight&langs_count=8" alt="Top languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Noby371&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noby371&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=86400" alt="Top languages" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Noby371&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+    <img src="https://streak-stats.demolab.com/?user=Noby371&theme=tokyonight&hide_border=true" alt="GitHub streak" />
   </a>
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="30" align="center" alt="GitHub Trophies"/> GitHub Trophies
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -112,17 +112,17 @@ const noby = {
 
 ---
 
-### 📈 Contribution Graph
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="30" align="center" alt="Contribution Graph"/> Contribution Graph
 
 <p align="center">
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Noby371&theme=tokyo-night&hide_border=true" alt="Contribution graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Noby371&theme=tokyo-night&hide_border=true" alt="Contribution graph" />
   </a>
 </p>
 
 ---
 
-### 🚀 Featured Projects
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30" align="center" alt="Featured Projects"/> Featured Projects
 
 <!-- Tambahkan repositori favorit kamu di sini, contoh:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Noby371&repo=nama-repo&theme=tokyonight)](https://github.com/Noby371/nama-repo)
@@ -132,13 +132,13 @@ const noby = {
 
 ---
 
-### 🎯 Currently
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" width="30" align="center" alt="Currently"/> Currently
 
 - 🔭 Building scalable full-stack applications
 - 🌱 Deep-diving into **System Design** & **Cloud Architecture**
 - 👯 Open to collaborate on interesting open-source projects
 - 💬 Ask me about **JavaScript, Go, PHP, Java, or anything dev-related**
-- 📫 Reach me: **[Your Email](mailto:you@email.com)** or via social media above
+- 📫 Reach me: **[Your Email](mailto:thisme371@gmail.com)** or via social media above
 - ⚡ Fun fact: My code ships faster when I'm not looking at the time ⏰
 
 ---
