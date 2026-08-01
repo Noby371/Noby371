@@ -88,10 +88,9 @@ const noby = {
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" align="center" alt="GitHub Analytics"/> GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/Noby371">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Noby371&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noby371&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=86400" alt="Top languages" />
-  </a>
+  <img src="https://img.shields.io/github/followers/Noby371?label=Followers&style=for-the-badge&color=6A5ACD" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Noby371?label=Total%20Stars&style=for-the-badge&color=6A5ACD" alt="Total Stars" />
+  <img src="https://img.shields.io/github/forks/Noby371?label=Forks&style=for-the-badge&color=6A5ACD" alt="Forks" />
 </p>
 
 <p align="center">
@@ -102,12 +101,13 @@ const noby = {
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="30" align="center" alt="GitHub Trophies"/> GitHub Trophies
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Star.png" width="30" align="center" alt="Highlights"/> Highlights
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Noby371&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub trophies" />
-  </a>
+  <img src="https://img.shields.io/badge/Open%20to%20Work-28A745?style=for-the-badge&logo=briefcase&logoColor=white" alt="Open to Work" />
+  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-6A5ACD?style=for-the-badge&logo=github&logoColor=white" alt="Open Source Contributor" />
+  <img src="https://img.shields.io/badge/Clean%20Code%20Enthusiast-6A5ACD?style=for-the-badge&logo=eslint&logoColor=white" alt="Clean Code" />
+  <img src="https://img.shields.io/badge/Lifelong%20Learner-6A5ACD?style=for-the-badge&logo=graduationcap&logoColor=white" alt="Lifelong Learner" />
 </p>
 
 ---
@@ -125,7 +125,7 @@ const noby = {
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30" align="center" alt="Featured Projects"/> Featured Projects
 
 <!-- Tambahkan repositori favorit kamu di sini, contoh:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Noby371&repo=nama-repo&theme=tokyonight)](https://github.com/Noby371/nama-repo)
+[![Readme Card](https://img.shields.io/github/stars/Noby371/nama-repo?label=nama-repo&style=social)](https://github.com/Noby371/nama-repo)
 -->
 
 <p align="center"><i>Stay tuned — awesome projects are on the way! 🚧</i></p>
