@@ -14,7 +14,7 @@
 
 ---
 
-### 💡 About Me
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="30" align="center" alt="About Me"/> About Me
 
 ```js
 const noby = {
@@ -37,7 +37,7 @@ const noby = {
 
 ---
 
-### 🛠️ Tech Stack
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30" align="center" alt="Tech Stack"/> Tech Stack
 
 #### Frontend
 
@@ -85,7 +85,14 @@ const noby = {
 
 ---
 
-### 📊 GitHub Analytics
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" align="center" alt="GitHub Analytics"/> GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/Noby371">
+    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Noby371&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub stats" />
+    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Noby371&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=86400" alt="Top languages" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
@@ -95,18 +102,17 @@ const noby = {
 
 ---
 
-### ⭐ Highlights
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="30" align="center" alt="GitHub Trophies"/> GitHub Trophies
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20Work-28A745?style=for-the-badge&logo=briefcase&logoColor=white" alt="Open to Work" />
-  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-6A5ACD?style=for-the-badge&logo=github&logoColor=white" alt="Open Source Contributor" />
-  <img src="https://img.shields.io/badge/Clean%20Code%20Enthusiast-6A5ACD?style=for-the-badge&logo=eslint&logoColor=white" alt="Clean Code" />
-  <img src="https://img.shields.io/badge/Lifelong%20Learner-6A5ACD?style=for-the-badge&logo=graduationcap&logoColor=white" alt="Lifelong Learner" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Noby371&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub trophies" />
+  </a>
 </p>
 
 ---
 
-### 📈 Contribution Graph
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="30" align="center" alt="Contribution Graph"/> Contribution Graph
 
 <p align="center">
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
@@ -116,17 +122,17 @@ const noby = {
 
 ---
 
-### 🚀 Featured Projects
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30" align="center" alt="Featured Projects"/> Featured Projects
 
 <!-- Tambahkan repositori favorit kamu di sini, contoh:
-[![Readme Card](https://img.shields.io/github/stars/Noby371/nama-repo?label=nama-repo&style=social)](https://github.com/Noby371/nama-repo)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=Noby371&repo=nama-repo&theme=tokyonight)](https://github.com/Noby371/nama-repo)
 -->
 
 <p align="center"><i>Stay tuned — awesome projects are on the way! 🚧</i></p>
 
 ---
 
-### 🎯 Currently
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" width="30" align="center" alt="Currently"/> Currently
 
 - 🔭 Building scalable full-stack applications
 - 🌱 Deep-diving into **System Design** & **Cloud Architecture**
