@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Noby 👋</h1>
+<h1 align="center">Hi there, I'm Fatah 👋</h1>
 <h3 align="center">Full-Stack Developer · Clean Code Enthusiast · Open Source Lover</h3>
 
 <p align="center">
@@ -17,7 +17,7 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="30" align="center" alt="About Me"/> About Me
 
 ```js
-const noby = {
+const Fatah = {
   role: "Full-Stack Developer",
   code: ["JavaScript", "TypeScript", "Go", "PHP", "Java", "Kotlin"],
   frontend: ["React", "Next.js", "Vue.js", "TailwindCSS"],
