@@ -132,7 +132,7 @@ const noby = {
 - 🌱 Deep-diving into **System Design** & **Cloud Architecture**
 - 👯 Open to collaborate on interesting open-source projects
 - 💬 Ask me about **JavaScript, Go, PHP, Java, or anything dev-related**
-- 📫 Reach me: **[Your Email](mailto:thisme371@gmail.com)** or via social media above
+- 📫 Reach me: **[Email](mailto:thisme371@gmail.com)** or via social media above
 - ⚡ Fun fact: My code ships faster when I'm not looking at the time ⏰
 
 ---
